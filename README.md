@@ -1,5 +1,5 @@
 # JS Joke Generator
-You can check out the [link](https://github.com/Jagrati1213/dad-jokes)
+You can check out the [link](https://jagrati1213.github.io/dad-jokes/)
 ## Used Language 
 - HTML
 - CSS
